@@ -1,12 +1,69 @@
-# React + Vite
+# Spylt.com Clone 🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually engaging animated website built with **GSAP** and **Tailwind CSS**, inspired by [Spylt.com](https://spylt.com).  
+This project focuses on delivering smooth animations, responsive design, and a premium user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🎨 **Modern UI** with Tailwind CSS
+- ✨ **Smooth Animations** powered by GSAP
+- 📱 **Responsive Design** for mobile, tablet, and desktop
+- ⚡ **Optimized Performance** for fast loading
+- 🖱️ Interactive scroll & hover animations
+- 🌙 Dark-mode friendly (optional)
+- 🧩 Modular and reusable component structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, Tailwind CSS
+- **Animations:** GSAP (GreenSock Animation Platform)
+- **Build Tool:** Vite / Next.js *(choose what you used)*
+- **Icons & Assets:** SVG / Custom Graphics
+
+---
+
+## 📂 Project Structure
+
+.
+├── public/ # Static assets
+├── src/
+│ ├── components/ # UI components
+│ ├── styles/ # Tailwind configs and custom CSS
+│ ├── animations/ # GSAP animation scripts
+│ ├── pages/ # Page components
+│ └── main.js # Entry point
+├── package.json
+├── tailwind.config.js
+└── README.md
+
+yaml
+Copy
+Edit
+
+---
+
+## 🎯 GSAP Animations Used
+1. Scroll-triggered reveals
+
+2. Parallax scrolling effects
+
+3. Fade-in & slide transitions
+
+4. Staggered element animations
+
+Hover scale & rotation effects
+
+## 📸 Screenshots
+Add preview images or GIFs of your project here.
+
+## 📜 License
+This project is for educational purposes only.
+All assets and branding belong to Spylt.com.
+
+## 💡 Inspiration
+Built as a learning project to explore modern animations with GSAP and utility-first CSS using Tailwind.
+Perfect for those wanting to master smooth UI/UX design and performance-friendly animations.
