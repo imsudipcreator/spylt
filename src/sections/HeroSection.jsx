@@ -39,7 +39,7 @@ const HeroSection = () => {
                 trigger : ".hero-container",
                 start : "1% top",
                 end : isTablet ? "bottom 40%" : "bottom 30%",
-                markers : true,
+                // markers : true,
                 scrub : true
             }
         })
